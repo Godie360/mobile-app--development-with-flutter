@@ -3,5 +3,15 @@
 ## Project Target 
 - To develop a mobile application using flutter framework
 
-## Project Task
+## Project Tasks
 - Learning Dart Programming Language
+- Practicind Dart questions
+- --------------------
+  
+
+## Group Members
+- Godfrey  Enosh
+- Samwel Fumbi
+- Godfrey Mwanale
+- Aghata Mkeng'e
+- Christina Shayo

@@ -13,6 +13,6 @@
 
 ## TASK O1 : AREA CIRCLE CALCULATOR APP
 
-(![Alt text](images/app2.jpeg))
+![screenshot of the predicton part](images/app2.jpeg)
 
 (![Alt text](images/app.jpeg))
